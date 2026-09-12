@@ -232,3 +232,6 @@ This repository serves as the official landing page for Jing. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Jing today!**
+
+---
+**Last updated:** 2026-09-12 07:48:07 UTC
