@@ -234,4 +234,4 @@ This repository serves as the official landing page for Jing. The software is di
 **Get the most recent version of Jing today!**
 
 ---
-**Last updated:** 2026-10-21 09:55:41 UTC
+**Last updated:** 2026-10-21 14:59:51 UTC
